@@ -3,8 +3,8 @@ FROM ubuntu:xenial
 LABEL maintainer="Vladimir Bykovskiy <vladimir@vvhq.io>"
 
 ENV DEBIAN_FRONTEND noninteractive
-ENV FIREBIRD_VERSION=3.0
-ENV FIREBIRD_ARCHITECTURE=SuperClassic
+ENV FIREBIRD_VERSION=2.5
+ENV FIREBIRD_ARCHITECTURE=super
 
 COPY install.sh ./install.sh
 COPY masterkey.sh ./masterkey.sh
