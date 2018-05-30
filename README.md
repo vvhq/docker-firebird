@@ -3,7 +3,7 @@
 * **3.0-superclassic, latest** [Dockerfile](https://github.com/vvhq/docker-firebird/blob/master/Dockerfile)
 * **3.0-super** [3.0-super/Dockerfile](https://github.com/vvhq/docker-firebird/blob/3.0-super/Dockerfile)
 * **2.5-superclassic** [2.5-superclassic/Dockerfile](https://github.com/vvhq/docker-firebird/blob/2.5-superclassic/Dockerfile)
-* **2.5-super** [2.5.0-super/Dockerfile](https://github.com/vvhq/docker-firebird/blob/2.5.0-super/Dockerfile)
+* **2.5-super** [2.5-super/Dockerfile](https://github.com/vvhq/docker-firebird/blob/2.5-super/Dockerfile)
 
 ### Volumes
 
