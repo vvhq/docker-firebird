@@ -4,7 +4,7 @@ LABEL maintainer="Vladimir Bykovskiy <vladimir@vvhq.io>"
 
 ENV DEBIAN_FRONTEND noninteractive
 ENV FIREBIRD_VERSION=3.0
-ENV FIREBIRD_ARCHITECTURE=SuperClassic
+ENV FIREBIRD_ARCHITECTURE=Super
 
 COPY install.sh ./install.sh
 COPY masterkey.sh ./masterkey.sh
