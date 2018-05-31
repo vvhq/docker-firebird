@@ -31,7 +31,7 @@
 
 ### Set a SYDBA password
 
-The default password for **SYDBA** is **masterky**. You may pass the environment variable **FIREBIRD_PASSWORD** to set the default password.
+The default password for **SYDBA** is **masterkey**. You may pass the environment variable **FIREBIRD_PASSWORD** to set the default password.
 
 ### Samples
 
