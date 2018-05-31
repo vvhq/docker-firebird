@@ -35,13 +35,13 @@ The default password for **SYDBA** is **masterky**. You may pass the environment
 
 ### Samples
 
-* **Simple (Firebird latest):**
+#### Simple (Firebird latest)
 
 ```bash
 docker run -d --name firebird -p 3050:3050 vvhq/firebird:latest
 ```
 
-* **Complex (Firebird 3.0)**
+#### Complex (Firebird 3.0)
 
 ```bash
 docker run -d \
@@ -54,7 +54,7 @@ docker run -d \
   vvhq/firebird:3.0-superclassic
 ```
 
-* **Complex (Firebird 2.5)**
+#### Complex (Firebird 2.5)
 
 ```bash
 docker run -d \
